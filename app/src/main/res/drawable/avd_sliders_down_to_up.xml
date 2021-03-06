@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:drawable="@drawable/sliders_down">
+
+    <target android:name="iconPath">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:interpolator="@android:interpolator/fast_out_slow_in"
+                android:propertyName="pathData"
+                android:valueTo="@string/sliders_up"
+                android:valueFrom="@string/sliders_down"
+                android:valueType="pathType" />
+        </aapt:attr>
+    </target>
+</animated-vector>

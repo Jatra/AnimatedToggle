@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimatedToggle</string>
+    <string name="path_pause">M9,16    h2 l0,-8   l-2,0 z  M13,16  h2 l0,-8   l-2,0    z</string>
+    <string name="path_play"> M10,16.5 h0 l6,-4.5 l-6,0 z  M10,7.5 h0 l6,4.5  l-6,0  z</string>
+    <string name="path_ring">M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2z M12,20c-4.41,0 -8,-3.59 -8,-8s3.59,-8 8,-8 8,3.59 8,8 -3.59,8 -8,8z</string>
+    <string name="sliders_up">  M3,5, v2 h7 v-2 z M10,3  h2 v6 h-2 z M14,5, v2 h20 v-2 z M3,11, v2 h15 v-2 z M22,11, v2 h20 v-2 z M18,9 h2 v6 h-2 z M3,17, v2 h3 v-2 z M10,17, v2 h20 v-2 z M6,15 h2 v6 h-2 z</string>
+    <string name="sliders_down">M3,5, v2 h1 v-2 z M4,3   h2 v6 h-2 z M8,5,  v2 h20 v-2 z M3,11, v2 h1  v-2 z M8,11,  v2 h20 v-2 z M4,9  h2 v6 h-2 z M3,17, v2 h1 v-2 z M8,17,  v2 h20 v-2 z M4,15 h2 v6 h-2 z</string>
+
+</resources>

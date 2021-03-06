@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:tint="#FFFFFF"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:name="iconPath"
+        android:fillColor="@android:color/white"
+        android:pathData="@string/path_play" />
+    <path android:name="ring" android:fillColor="@android:color/white" android:pathData="@string/path_ring"/>
+</vector>
